@@ -1,7 +1,9 @@
 {
   "name": "yxw-scripts",
   "version": "0.0.0",
-  "files": [],
+  "files": [
+    "prettier.js"
+  ],
   "description": "Commonly used scripts and configs.",
   "scripts": {},
   "keywords": [],
