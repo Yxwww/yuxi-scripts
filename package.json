@@ -1,17 +1,13 @@
 {
-  "name": "wyx-scripts",
+  "name": "yxw-scripts",
   "version": "0.0.0",
-  "description": "",
+  "files": [],
+  "description": "Commonly used scripts and configs.",
   "scripts": {},
   "keywords": [],
-  "author": "",
-  "files": [
-    "eslint.js",
-    "prettier.js"
-  ],
-  "devDependencies": {
-    "eslint": "^8.34.0",
-    "eslint-config-prettier": "^8.6.0",
-    "prettier": "^2.8.4"
+  "author": "Yuxi Wang",
+  "devDependencies": {},
+  "peerDependencies": {
+    "prettier": "^2.8.0"
   }
 }
