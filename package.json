@@ -1,6 +1,6 @@
 {
   "name": "yuxi-scripts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "files": [
     "prettier.js",
     "eslint.js"
