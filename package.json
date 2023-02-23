@@ -2,14 +2,17 @@
   "name": "yuxi-scripts",
   "version": "0.0.1",
   "files": [
-    "prettier.js"
+    "prettier.js",
+    "eslint.js"
   ],
   "description": "Commonly used scripts and configs.",
   "scripts": {},
   "keywords": [],
   "author": "Yuxi Wang",
-  "devDependencies": {},
   "peerDependencies": {
     "prettier": "^2.8.0"
+  },
+  "dependencies": {
+    "eslint-config-yuxi": "^0.0.1"
   }
 }
