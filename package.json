@@ -13,6 +13,6 @@
     "prettier": "^2.8.0"
   },
   "dependencies": {
-    "eslint-config-yuxi": "^0.0.3"
+    "eslint-config-yuxi": "^0.0.4"
   }
 }
